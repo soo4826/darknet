@@ -11,7 +11,7 @@
 *.dylib
 *.pyc
 mnist/
-data/
+data/yolov4.conv.137
 caffe/
 grasp/
 images/

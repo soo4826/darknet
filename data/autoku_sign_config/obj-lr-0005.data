@@ -1,0 +1,5 @@
+classes= 6
+train  = data/autoku_sign_config/train.txt
+valid  = data/autoku_sign_config/val.txt
+names = data/autoku_sign_config/obj.names
+backup = backup/autoku_sign_config/lr_0005
